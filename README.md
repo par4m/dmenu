@@ -12,3 +12,4 @@ sudo make clean install
 - [case-insensitive](https://tools.suckless.org/dmenu/patches/case-insensitive/)
 - [center](https://tools.suckless.org/dmenu/patches/center/)
 - [lines below prompt](https://tools.suckless.org/dmenu/patches/lines-below-prompt/)
+- [Position and Width](https://tools.suckless.org/dmenu/patches/xyw/)
